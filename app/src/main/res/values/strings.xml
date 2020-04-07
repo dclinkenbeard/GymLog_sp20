@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GymLog_sp20</string>
+    <string name="exercise">Exercise</string>
+    <string name="weight">Weight</string>
+    <string name="logButton">Log It!</string>
+    <string name="reps">Reps</string>
+</resources>
